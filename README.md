@@ -17,24 +17,24 @@
 ## Prints
 ### Login & Login com Erro
 <div align="center">
-    <img src="./images/login.png" width="45%" />
-    <img src="./images/loginErro.png" width="45%" />
+    <img src="./images/login.png" width="200" height="300"/>
+    <img src="./images/loginErro.png" width="200" height="300"/>
 </div>
 
 ### Menu
 <div align="center">
-    <img src="./images/menu.png" width="45%" />
+    <img src="./images/menu.png" width="200" height="300" />
 </div>
 
 ### IMC – Antes & Depois
 <div align="center">
-    <img src="./images/imcAntes.png" width="45%" />
-    <img src="./images/imcDepois.png" width="45%" />
+    <img src="./images/imcAntes.png" width="200" height="300"/>
+    <img src="./images/imcDepois.png" width="200" height="300"/>
 </div>
 
 ###  Equipe
 <div align="center">
-    <img src="./images/equipe.png" width="45%" />
+    <img src="./images/equipe.png" width="200" height="300" />
 </div>
 
 
