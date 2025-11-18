@@ -1,21 +1,3 @@
-## 📸 Prints
-
-- Login  
-  <img src="./images/login.png" width="320">
-- Login Erro 
-  <img src="./images/loginErro.png" width="320">
-
-- Menu  
-  <img src="./images/menu.png" width="320">
-
-- IMC Antes 
-  <img src="./images/imcAntes.png" width="320">
-
-- IMC Depois
-  <img src="./images/imcDepois.png" width="320">
-
-- Equipe  
-  <img src="./images/equipe.png" width="320">
 
 ## 👨‍💻 Tecnologias Utilizadas
 - **Kotlin**
@@ -32,13 +14,24 @@
 
 
 
-## 📂 Como Executar
-1. Clone o repositório no **Android Studio**
-```
-git clone LINK
-```
+## 📸 Prints
+- Login  
+  <img src="./images/login.png" width="45%">
+- Login Erro
+  <img src="./images/loginErro.png" width="45%">
 
-2. Execute 
+- Menu  
+  <img src="./images/menu.png" width="45%">
+
+- IMC Antes
+  <img src="./images/imcAntes.png" width="45%">
+
+- IMC Depois
+  <img src="./images/imcDepois.png" width="45%">
+
+- Equipe  
+  <img src="./images/equipe.png" width="45%">
+
 
 
 
