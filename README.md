@@ -14,25 +14,28 @@
 
 
 
-## 📸 Prints
-- Login  
-  <img src="./images/login.png" width="45%">
-- Login Erro
-  <img src="./images/loginErro.png" width="45%">
+## Prints
+### Login & Login com Erro
+<div align="center">
+    <img src="./images/login.png" width="45%" />
+    <img src="./images/loginErro.png" width="45%" />
+</div>
 
-- Menu  
-  <img src="./images/menu.png" width="45%">
+### Menu
+<div align="center">
+    <img src="./images/menu.png" width="45%" />
+</div>
 
-- IMC Antes
-  <img src="./images/imcAntes.png" width="45%">
+### IMC – Antes & Depois
+<div align="center">
+    <img src="./images/imcAntes.png" width="45%" />
+    <img src="./images/imcDepois.png" width="45%" />
+</div>
 
-- IMC Depois
-  <img src="./images/imcDepois.png" width="45%">
-
-- Equipe  
-  <img src="./images/equipe.png" width="45%">
-
-
+###  Equipe
+<div align="center">
+    <img src="./images/equipe.png" width="45%" />
+</div>
 
 
 
